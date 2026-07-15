@@ -2,8 +2,6 @@
 
 A working prototype of an **AI agent** that resolves broadband customer-support requests end to end — understanding a customer's problem, using tools to look up data and take action, deciding whether it can resolve the issue itself, and escalating to a human when it can't. It is a small-scale study of the pattern behind enterprise agent platforms such as Salesforce Agentforce.
 
-Built as a two-day project to understand agentic AI hands-on, from the perspective of a product manager: not just *can I build it*, but *how do I know it works, and where does it fail?*
-
 ---
 
 ## What it does
